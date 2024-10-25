@@ -1,0 +1,21 @@
+
+ul{
+    list-style: none;
+    padding: 12px;
+}
+li{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: hsl(0, 67%, 98%);
+    width: 300px;
+    margin-top: 23px;
+    text-align: center;
+    line-height: 0;
+}
+.buttbtn{
+    margin-left: 190px;
+    background-color: hsl(0, 86%, 57%);
+    margin-top: 2px;
+    text-align: center;
+}
